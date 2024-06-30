@@ -5,4 +5,7 @@
 .main{
   width:100%;
   background:url(mmkt2.png);
+  background-position:center;
+  background-size:cover;
+  height:109vh
 }
