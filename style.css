@@ -4,8 +4,39 @@
 }
 .main{
   width:100%;
-  background:url(mmkt2.png);
+  background:linear-gradient (to top, rgba(0,0,0,0.1)90%, rgba(0,0,0,0.1)90%),url(mmkt2.png);
   background-position:center;
   background-size:cover;
   height:109vh;
+}
+.navbar{
+  width:200px;
+  float:left;
+  height:70px;
+}
+h1{
+  color:SteelBlue;
+  Font-size:53px;
+  Font-family:Arial;
+  Padding-left:15px
+  float:left;
+  padding-top:10px;
+}
+.menu{
+  width:100px;
+  float:left;
+  height:70px;
+}
+ul{
+  float:left;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+ul li a{
+  text-decoration:none;
+  color:chocolate;
+  font-family:arial;
+  font-weight:bold;
+  transition:0.4s ease-in-out;
 }
