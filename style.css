@@ -1,45 +1,59 @@
 *{
-  margin:0;
-  padding:0;
+    margin:0;
+    padding:0;
 }
 .main{
-  width:100%;
-  background:linear-gradient (to top, rgba(0,0,0,0.1)90%, rgba(0,0,0,0.1)90%), url(mark.png);
-  background-position:center;
-  background-size:cover;
-  height:109vh;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.1)90%, rgba(0,0,0,0.1)90%), url(mark.png);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
 }
-.navbar{
-  width:200px;
-  float:left;
-  height:70px;
+.navbar {
+    width:1200px;
+    height:75px;
+    margin:auto;
+}
+.icon{
+    width:200px;
+    float:left;
+    height: 70px;
 }
 h1{
-  color:SteelBlue;
-  Font-size:53px;
-  Font-family:Arial;
-  Padding-left:15px
-  float:left;
-  padding-top:10px;
-}
+    /*can change title color*/
+    color: steelBlue;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left:15px;
+    float:left;
+    padding-top:10px
+}    
 .menu{
-  width:100px;
-  float:left;
-  height:70px;
+    width:400px;
+    float:left;
+    height:70px;
 }
 ul{
-  float:left;
-  display:flex;
-  justify-content:center;
-  align-items:center;
+    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+ul li{
+    list-style:none;
+    margin-left:100px;
+    margin-top:25px;
+    font-size:20px;
 }
 ul li a{
-  text-decoration:none;
-  color:chocolate;
-  font-family:arial;
-  font-weight:bold;
-  transition:0.4s ease-in-out;
+    text-decoration:none;
+    /*can change pre-hover color*/
+    color:chocolate;
+    font-family:arial;
+    font-weight:bold;
+    transition:0.4s ease-in-out;
 }
 ul li a:hover{
-  color: cornflowerblue;
+    /*can change hover color*/
+    color:cornflowerblue;
 }
