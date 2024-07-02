@@ -19,7 +19,7 @@
     float:left;
     height: 70px;
 }
-h1{
+.logo{
     /*can change title color*/
     color: chocolate;
     font-size: 35px;
@@ -56,4 +56,7 @@ ul li a{
 ul li a:hover{
     /*can change hover color*/
     color:cornflowerblue;
+}
+content{
+    
 }
