@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.1)90%, rgba(0,0,0,0.1)90%), url(../mark.png);
+    background: linear-gradient(to top, rgba(0,0,0,0.1)80%, rgba(0,0,0,0.1)80%), url(../mark.png);
     background-position: center;
     background-size: cover;
     height: 109vh;
