@@ -26,7 +26,7 @@ h1{
     font-family: Arial;
     padding-left:15px;
     float:left;
-    padding-top:40px
+    padding-top:30px
 }    
 .menu{
     width:400px;
@@ -56,4 +56,20 @@ ul li a{
 ul li a:hover{
     /*can change hover color*/
     color:cornflowerblue;
+}
+h2{
+    color: DarkCyan;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left:15px;
+    float:left;
+    padding-top:60px
+}
+h4{
+    Tcolor: LightSeaGreen;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left:15px;
+    float:left;
+    padding-top:100px
 }
