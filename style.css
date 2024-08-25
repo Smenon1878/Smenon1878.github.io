@@ -1,1 +1,85 @@
-
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width: 100%;
+    background: LavenderBlush;
+    background-position: center;
+    background-size: cover;
+    height: 35vh;
+}
+.navbar {
+    width:400px;
+    height:75px;
+    margin:auto;
+}
+.icon{
+    width:50px;
+    float:left;
+    height:20px;
+}
+h3{
+    /*can change title color*/
+    background: LavenderBlush;
+    background-position: center;
+    background-size: cover;
+    color: steelBlue;
+    font-size: 35px;
+    font-family: Garamond;
+    padding-left:50px;
+    float:left;
+    padding-top:0px
+}    
+.menu{
+    width:100px;
+    float:left;
+    height:70px;
+}
+ul{
+    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+ul li{
+    list-style:none;
+    margin-left:100px;
+    margin-top:25px;
+    font-size:20px;
+}
+ul li a{
+    text-decoration:none;
+    /*can change pre-hover color*/
+    color:chocolate;
+    font-family:Garamond;
+    font-weight:bold;
+    transition:0.4s ease-in-out;
+}
+ul li a:hover{
+    /*can change hover color*/
+    color:cornflowerblue;
+}
+.para1{
+    background: LavenderBlush;
+    background-position: center;
+    background-size: cover;
+    color: steelBlue;
+    font-size: 35px;
+    font-family: Garamond;
+    padding-left:50px;
+    float:left;
+    padding-top:50px
+}
+    
+.para2{
+    background: LavenderBlush;
+    background-position: center;
+    background-size: cover;
+    color: steelBlue;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left:50px;
+    float:left;
+    padding-top:100px
+}
