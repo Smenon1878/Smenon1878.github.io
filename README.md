@@ -1,1 +1,1 @@
-# This is a beginner's experiment in web design, focused on learning the fundamentals of HTML and CSS  #
+# This is a beginner's experiment in web design, focused on learning the fundamentals of HTML and CSS. This is not a perfect page but it is a start. it is viewable on https://smenon1878.github.io/basic.html  #
