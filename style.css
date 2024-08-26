@@ -15,10 +15,9 @@
     margin:auto;
 }
 .icon{
-    width:50px;
-    float:left;
-    
-    height:20px;
+    position:absolute;
+    top:10px:
+    left:10px:
 }
 h3{
     /*can change title color*/
