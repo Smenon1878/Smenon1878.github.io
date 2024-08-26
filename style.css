@@ -45,9 +45,9 @@ ul{
 }
 ul li{
     list-style:none;
-    margin-left:100px;
-    margin-top:25px;
-    font-size:20px;
+    margin-left:150px;
+    margin-top:50px;
+    font-size:35px;
 }
 ul li a{
     text-decoration:none;
